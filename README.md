@@ -11,9 +11,8 @@
 
 ### 🧠 Data Structures & Algorithms
 
-- 📈 Solved **600+ problems** (350 Medium, 100+ Hard)
-- 🥇 Top 5% in CodeChef Starters 191D | 2★ (1503)
-- 💡 Core: DP, Graphs, Binary Search, Recursion, Greedy, Sliding Window
+- 📈 Solved **750+ problems** (450 Medium, 150+ Hard)
+- 🥇 Top 5% in CodeChef Starters 191D | 2★ (1527)
 
 ---
 
@@ -59,11 +58,54 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [JUST-CODE](https://github.com/Shubham-kumar2311/JUST-CODE) &nbsp; `AI Coding Platform`
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Shubham-kumar2311/cnn_from_scratch_CIFAR-10">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-kumar2311&repo=cnn_from_scratch_CIFAR-10&theme=react&cache_bust=1" />
+    </a>
+    <a href="https://github.com/Shubham-kumar2311/JUST-CODE">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-kumar2311&repo=JUST-CODE&theme=react&cache_bust=1" />
+    </a>
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Shubham-kumar2311/AI-LunarLander">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-kumar2311&repo=AI-LunarLander&theme=react&cache_bust=1" />
+    </a>
+    <a href="https://github.com/Shubham-kumar2311/File-Compressor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-kumar2311&repo=File-Compressor&theme=react&cache_bust=1" />
+    </a>
+  </div>
+
+</div>
+
+
+
+
+<!-- 
+
+#### 🔹[CNN-from-Scratch](https://github.com/Shubham-kumar2311/cnn_from_scratch_CIFAR-10)
+
+A minimal Convolutional Neural Network built using **pure NumPy**, trained on the **CIFAR-10** dataset (RCB 28×28), without using any ML libraries.
+
+
+
+> 🔧 Fully custom implementation (no TensorFlow/PyTorch)  
+> 🧱 Layers: Convolution, ReLU, MaxPooling, Dense  
+> 📉 Manual forward & backpropagation with SGD  
+> ✅ Achieves ~75% test accuracy on simplified CIFAR-10
+ -->
+<!-- 
+
+#### 🔹 [JUSTCODE](https://github.com/Shubham-kumar2311/JUST-CODE) &nbsp; `AI Coding Platform`
+JUSTCODE is an AI-powered coding platform that lets users solve programming problems with real-time code execution and inline AI assistance. It supports authentication, problem difficulty tiers, and runs code via Judge0 API.
+
 > ✨ Full-stack app using OpenAI + Judge0  
 > 🔐 JWT login, problem tiers, AI inline help  
-> 🌐 [Live Demo](https://justcode-eta.vercel.app)
-
+> 🌐 [Live Demo](https://justcode-eta.vercel.app) -->
+<!-- 
 #### 🔹 [URL Shortener](https://github.com/Shubham-kumar2311/URL-Shortner)
 > 🔗 Shortens long links using MERN stack  
 > ⚙️ Custom hash + <100ms MongoDB lookup
@@ -72,7 +114,7 @@
 > 🗜️ Compresses files with Huffman Coding (Java)  
 > 💡 CLI tool with 60%+ file size reduction
 
----
+--- -->
 
 ### 📊 LeetCode Stats
 
@@ -81,7 +123,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 🦉 Codolio Summary
 
 > 🧠 **612 problems**, 155 active days  
@@ -89,7 +131,7 @@
 > 🏁 Participated in 11 contests  
 > 📈 Platform Profile: [Codolio](https://codolio.com/profile/RpHjZGxmr)
 
----
+--- -->
 
 ### 📫 Connect With Me
 
